@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @goa1beas1
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning language C
-- 😄 Pronouns: iam just Man:)
+- 😄 Pronouns: Iam just Man:)
 - ⚡ Fun fact: Iam programmer and iam boxing xd
 
 <!---
